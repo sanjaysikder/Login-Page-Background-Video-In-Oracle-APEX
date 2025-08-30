@@ -55,3 +55,5 @@ You can either host the video on your server or use an external video hosting se
 # Thank You
 # Sanjay Sikder
 
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/sanjay-sikder/)!
+
